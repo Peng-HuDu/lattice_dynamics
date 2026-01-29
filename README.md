@@ -1,2 +1,2 @@
-# phonon
-Scripts for calculating phonons.
+# Lattice dynamics
+Scripts for calculating lattice dynamics.
