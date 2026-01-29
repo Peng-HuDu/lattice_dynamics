@@ -1,0 +1,7 @@
+potential    ./nep.txt
+velocity     1e-10
+
+ensemble     nve
+time_step    0.1
+dump_exyz    100 1
+run          2000

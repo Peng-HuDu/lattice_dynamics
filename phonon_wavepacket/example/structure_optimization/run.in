@@ -1,0 +1,8 @@
+potential	./nep.txt
+
+minimize	fire 1.0e-6 10000
+
+ensemble	nve
+time_step	0
+dump_exyz	1
+run			1
