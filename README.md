@@ -1,2 +1,2 @@
 # Lattice dynamics
-Scripts for calculating lattice dynamics.
+Python scripts for calculating lattice dynamics.
